@@ -97,6 +97,11 @@
 
 ---
 
+## 📄 Want to See My Resume?
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/shawnchee) — let’s connect!
+
+---
+
 ## 😂 Before You Go...
 I probably left out some cool things I’ve worked on…  
 👉 **Schedule a call with me and I’ll tell you the rest!**  
