@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🚀 Full Stack AI Engineer | Data Engineering Enthusiast | Web3 Developer Enthusiast
+- 🚀 Full Stack AI Engineer | Frontend Developer | Web3 Developer Enthusiast
 - 🧠 Passionate about LLMs, AI automation, Data & Web3  
 - 🎯 Currently building AI systems, pipelines, and production-grade infra  
 - 📈 Love designing systems that scale
