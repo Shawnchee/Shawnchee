@@ -12,7 +12,8 @@
 - 📈 Love designing systems that scale
 - 🏛  President of Computer Society Universiti Malaya (2024/25)
 - 💼 Prev. Full-Stack AI Engineer Part-Time @ Rosary Labs
-- [Dev Portfolio](https://byshawnchee.vercel.app)
+- 💼 Prev. Software Engineer Intern (Cloud Infrastructure Automation) @ Dell Technologies
+- 👇 Visit my [Dev Portfolio](https://byshawnchee.vercel.app)
 
 ---
 
