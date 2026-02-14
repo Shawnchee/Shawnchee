@@ -6,12 +6,12 @@
 ---
 
 ## 👨‍💻 About Me
-- 🚀 Full Stack AI Engineer | Frontend Developer | Web3 Developer Enthusiast
+- 🚀 Full Stack AI Engineer | Frontend Developer | Web3 Developer
 - 🧠 Passionate about LLMs, AI automation, Data & Web3  
 - 🎯 Currently building AI systems, pipelines, and production-grade infra  
 - 📈 Love designing systems that scale
 - 🏛  President of Computer Society Universiti Malaya (2024/25)
-- 💼 Full-Stack AI Engineer Part-Time @ Rosary Labs
+- 💼 Prev. Full-Stack AI Engineer Part-Time @ Rosary Labs
 - [Dev Portfolio](https://byshawnchee.vercel.app)
 
 ---
@@ -51,8 +51,9 @@
 <p>
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white">
   <img src="https://img.shields.io/badge/Hardhat-FF7A59?style=flat">
-  <img src="https://img.shields.io/badge/Ethers.js-627EEA?style=flat">
-  <img src="https://img.shields.io/badge/IPFS-0099FF?style=flat">
+  <img src="https://img.shields.io/badge/Ethers.js-627EEA?style=flat&logo=ethereum&logoColor=white">
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/IPFS-0099FF?style=flat&logo=ipfs&logoColor=white">
   <img src="https://img.shields.io/badge/Solana-00FFA3?style=flat&logo=solana&logoColor=white">
   <img src="https://img.shields.io/badge/IOTA-000000?style=flat&logo=iota&logoColor=white">
 </p>
@@ -86,20 +87,25 @@
 
 ---
 
-## 📌 Projects
-⭐ **See pinned projects below**  
+## 📌 Pinned Projects
+
+- 🛡️ **[HedgeLP](https://github.com/Shawnchee/HedgeLP)** – Delta-neutral Uniswap v4 LP with atomic GMX hedging
+- ✍️ **[Gemini Conventional Commit Writer](https://github.com/Shawnchee/vscode-gemini-conventional-commit-writer)** – Generate clean conventional commits instantly with Gemini (extension for vscode, cursor and antigravity)
+- 🔍 **[ECHO](https://github.com/Shawnchee/ECHO)** – Solana wallet risk analysis, MEV detection, and privacy intelligence
+- 🚗 **[AutoValidate](https://github.com/Shawnchee/Codenection2025-2nd-Place-AutoValidate-Backend-API)** – Semantic validation API with OCR, embeddings, and typo correction
+- 🌱 **[BuddyKu](https://github.com/Shawnchee/Buddyku-Innovation-Excellence-Award-Great-AI-Hackathon)** – AI mental health journaling with crisis detection and support
+- 🏪 **[BizKuKu](https://github.com/Shawnchee/BizKuKu-PayHack2025-Champion)** – Digital growth platform empowering Malaysian MSMEs
+- 🔐 **[SolSecure](https://github.com/Shawnchee/SolSecure)** – Wallet-powered zero-trust secret management with AI assistant
+- 💜 **[BlockChair](https://github.com/Shawnchee/BlockChair-VHACK25-Finalist)** – Transparent milestone-based decentralized charity platform
 
 ---
 
-## 🐍 GitHub Contribution
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/shawnchee/shawnchee/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/shawnchee/shawnchee/output/github-snake.svg" />
-  <img alt="github contribution snake" 
-       src="https://raw.githubusercontent.com/shawnchee/shawnchee/output/github-snake.svg" />
-</picture>
+**More projects in my [website](https://byshawnchee.vercel.app)**
+
+---
+
+## 👾 GitHub Contribution
+![My GitHub Game](game.gif)
 
 
 ---
