@@ -1,10 +1,3 @@
-<!-- Animated Name -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Shawn+Chee!;Full+Stack+AI+Engineer;Data+Engineer;Web3+Developer+Enthusiast" alt="Typing SVG" />
-</h1>
-
----
-
 ## 👨‍💻 About Me
 - 🚀 Full Stack AI Engineer | Frontend Developer | Web3 Developer
 - 🧠 Passionate about LLMs, AI automation, Data & Web3  
