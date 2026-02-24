@@ -4,7 +4,7 @@
 - 🎯 Currently building AI systems, pipelines, and production-grade infra  
 - 📈 Love designing systems that scale
 - 🏛  President of Computer Society Universiti Malaya (2024/25)
-- 💼 Prev. Full-Stack AI Engineer Part-Time @ Rosary Labs
+- 💼 Prev. Full-Stack AI Engineer @ Rosary Labs
 - 💼 Prev. Software Engineer Intern (Cloud Infrastructure Automation) @ Dell Technologies
 - 👇 Visit my [Dev Portfolio](https://byshawnchee.vercel.app)
 
