@@ -84,14 +84,16 @@
 
 ## 📌 Pinned Projects
 
-- 🛡️ **[HedgeLP](https://github.com/Shawnchee/HedgeLP)** – Delta-neutral Uniswap v4 LP with atomic GMX hedging
-- ✍️ **[Gemini Conventional Commit Writer](https://github.com/Shawnchee/vscode-gemini-conventional-commit-writer)** – Generate clean conventional commits instantly with Gemini (extension for vscode, cursor and antigravity)
-- 🔍 **[ECHO](https://github.com/Shawnchee/ECHO)** – Solana wallet risk analysis, MEV detection, and privacy intelligence
-- 🚗 **[AutoValidate](https://github.com/Shawnchee/Codenection2025-2nd-Place-AutoValidate-Backend-API)** – Semantic validation API with OCR, embeddings, and typo correction
-- 🌱 **[BuddyKu](https://github.com/Shawnchee/Buddyku-Innovation-Excellence-Award-Great-AI-Hackathon)** – AI mental health journaling with crisis detection and support
-- 🏪 **[BizKuKu](https://github.com/Shawnchee/BizKuKu-PayHack2025-Champion)** – Digital growth platform empowering Malaysian MSMEs
-- 🔐 **[SolSecure](https://github.com/Shawnchee/SolSecure)** – Wallet-powered zero-trust secret management with AI assistant
-- 💜 **[BlockChair](https://github.com/Shawnchee/BlockChair-VHACK25-Finalist)** – Transparent milestone-based decentralized charity platform
+- **[PR Auditor](https://github.com/Shawnchee/the-auditor)** – Automated smart contract auditor for Solidity, Rust, and Move PRs via static analysis + Gemini AI
+- **[HedgeLP](https://github.com/Shawnchee/HedgeLP)** – Delta-neutral Uniswap v4 LP with atomic GMX hedging
+- **[VibeGuard](https://github.com/Shawnchee/VibeGuard)** – Security-first VS Code extension scanning staged changes for leaked secrets and vulnerabilities
+- **[Gemini Conventional Commit Writer](https://github.com/Shawnchee/vscode-gemini-conventional-commit-writer)** – Generate clean conventional commits instantly with Gemini (extension for vscode, cursor and antigravity)
+- **[ECHO](https://github.com/Shawnchee/ECHO)** – Solana wallet risk analysis, MEV detection, and privacy intelligence
+- **[AutoValidate](https://github.com/Shawnchee/Codenection2025-2nd-Place-AutoValidate-Backend-API)** – Semantic validation API with OCR, embeddings, and typo correction
+- **[BuddyKu](https://github.com/Shawnchee/Buddyku-Innovation-Excellence-Award-Great-AI-Hackathon)** – AI mental health journaling with crisis detection and support
+- **[BizKuKu](https://github.com/Shawnchee/BizKuKu-PayHack2025-Champion)** – Digital growth platform empowering Malaysian MSMEs
+- **[SolSecure](https://github.com/Shawnchee/SolSecure)** – Wallet-powered zero-trust secret management with AI assistant
+- **[BlockChair](https://github.com/Shawnchee/BlockChair-VHACK25-Finalist)** – Transparent milestone-based decentralized charity platform
 
 ---
 
