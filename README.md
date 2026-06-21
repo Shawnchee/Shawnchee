@@ -17,6 +17,7 @@ i write sometimes **[here](https://substack.com/@byshawnchee)** · 🌐 more at 
 
 **things i've built:**
 
+- **[ParkTheBus](https://github.com/Shawnchee/ParkTheBus)** — peer-to-peer football prediction market on Solana · post an RFQ for any event ("Ronaldo to cry"), market makers quote the odds, settled trustlessly on-chain with zero house edge
 - **[polynuts](https://github.com/Shawnchee/polynuts)** — non-custodial crypto prediction market on Base · pump/dump/range bets settled trustlessly on Thetanuts options vaults
 - **[perfpatch](https://github.com/Shawnchee/perfpatch)** — one command to diagnose Lighthouse, bundle bloat & dead code and hand ready-to-apply fixes to your IDE's AI agent · zero external API calls
 - **[bequeath](https://github.com/Shawnchee/bequeath)** — Uniswap v4 hook that makes an LP position inheritable and self-funds a monthly annuity from its own fees · *submission for the Uniswap Hook Incubator program*
@@ -38,6 +39,9 @@ i write sometimes **[here](https://substack.com/@byshawnchee)** · 🌐 more at 
 - **[SolSecure](https://github.com/Shawnchee/SolSecure)** — wallet-powered zero-trust secret management with AI assistant
 - **[BuddyKu](https://github.com/Shawnchee/Buddyku-Innovation-Excellence-Award-Great-AI-Hackathon)** — AI mental health journaling with crisis detection · *Innovation Excellence Award*
 - **[BlockChair](https://github.com/Shawnchee/BlockChair-VHACK25-Finalist)** — transparent milestone-based decentralised charity platform · *VHACK25 Finalist*
+- **[DermaNow](https://github.com/Shawnchee/DermaNow-UMHackathon25-4th-Place)** — Malaysia's first Shariah-compliant blockchain charity · milestone-based donations, AI compliance & ethical DeFi staking · *4th @ UMHackathon 2025*
+- **[SubMint](https://github.com/Shawnchee/SubMint-SuperTeamMY-Solana-Hackathon-2025-Finalist_Solo)** — decentralised subscription manager that tokenizes shared subscriptions as NFTs · on-chain tracking, transparency & ownership · *Finalist (solo) @ SuperTeam MY Solana Hackathon 2025*
+- **[paperfans](https://github.com/Shawnchee/paperfans-IOTA-Hackathon-Malaysia-5th-Place)** — Web3 science-funding platform · researchers raise from the community and share future revenue with backers · *5th @ IOTA Hackathon Malaysia*
 - **[AutoValidate](https://github.com/Shawnchee/Codenection2025-2nd-Place-AutoValidate-Backend-API)** — semantic validation API with OCR, embeddings, and typo correction · *2nd @ Codenection 2025*
 
 ## 👾 GitHub Contribution
