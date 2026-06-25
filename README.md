@@ -7,7 +7,7 @@ Currently my days are devoted to:
 * 🤖 building agentic AI systems and LLM-powered pipelines.
 * ⛓️ hacking on DeFi protocols and onchain infra.
 * 🛡️ shipping developer tools and indie building products.
-* 🏆 winning hackathons (8x national, still going).
+* 🏆 winning hackathons (9x national, still going).
 * 👌🏻 contributing to open-source projects.
 * ⚽️ enjoying life.
 
