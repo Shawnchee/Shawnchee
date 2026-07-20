@@ -19,6 +19,9 @@ i write sometimes **[here](https://substack.com/@byshawnchee)** · 🌐 more at 
 
 - **[ParkTheBus](https://github.com/Shawnchee/ParkTheBus)** — peer-to-peer football prediction market on Solana · post an RFQ for any event ("Ronaldo to cry"), market makers quote the odds, settled trustlessly on-chain with zero house edge
 - **[polynuts](https://github.com/Shawnchee/polynuts)** — non-custodial crypto prediction market on Base · pump/dump/range bets settled trustlessly on Thetanuts options vaults
+- **[Whistle](https://github.com/Shawnchee/Whistle)** — deterministic, dispute-free settlement engine for arbitrary World Cup stat props on Solana · the contract pays winners itself by CPI-verifying a signed result on-chain, no oracle or dispute window
+- **[Steam](https://github.com/Shawnchee/Stream)** — autonomous sharp-money agent that detects "steam" moves across all 104 World Cup matches, paper-trades on a disciplined rule, and commits every signal to a chained on-chain ledger for a trustless track record
+- **[CalledIt](https://github.com/Shawnchee/CalledIt)** — live play-along game where you call match events against the betting market · calls timestamped on-chain before the moment, so the group chat gets a provable scoreboard
 - **[perfpatch](https://github.com/Shawnchee/perfpatch)** — one command to diagnose Lighthouse, bundle bloat & dead code and hand ready-to-apply fixes to your IDE's AI agent · zero external API calls
 - **[bequeath](https://github.com/Shawnchee/bequeath)** — Uniswap v4 hook that makes an LP position inheritable and self-funds a monthly annuity from its own fees · *submission for the Uniswap Hook Incubator program*
 - **[claude-pomodoro](https://github.com/Shawnchee/claude-pomodoro)** — pixel-art Claude mascot pomodoro timer · native on macOS, Electron on Windows & Linux
@@ -28,7 +31,11 @@ i write sometimes **[here](https://substack.com/@byshawnchee)** · 🌐 more at 
 - **[Consilium](https://github.com/Shawnchee/Consilium-1st-place-in-UMHackathon2026-)** — AI vet copilot: pre-consult briefs, live note-taking, Telegram triage · *1st @ UMHackathon 2026*
 - **[caveman-skill](https://github.com/Shawnchee/caveman-skill)** — minimal Claude skill for hunting bugs, not vibing
 - **[preflight-skill](https://github.com/Shawnchee/preflight-skill)** — production-readiness scanner · 780 checks across 6 deploy types, with file + line precision
+- **[design-scan](https://github.com/Shawnchee/design-scan)** — Claude Code skill that scans any live website into a replication-grade design.md — layout, typography, colors & animations via a bundled Playwright crawler
+- **[solana-roast-skill](https://github.com/Shawnchee/solana-roast-skill)** — adversarial pre-ship interrogation skill for Solana programs · walks the design decision-tree one question at a time before an audit
+- **[content-negotiation-for-agents](https://github.com/Shawnchee/content-negotiation-for-agents-skill)** — Next.js skill that serves clean Markdown to AI agents and HTML to browsers from the same URL via HTTP content negotiation
 - **[AgentProof](https://github.com/Shawnchee/AgentProof-OWS)** — cryptographic work receipts for AI agents · proves who did the work and that nothing was tampered with
+- **[ScamBusters](https://github.com/Shawnchee/finhack-i-love-tng)** — pre-transaction scam detection for Malaysian consumers · four fraud signals (mule registries, link scanner, per-user anomaly ML) fused into a risk verdict before you send · *TNG FinHack 2026*
 - **[BizKuKu](https://github.com/Shawnchee/BizKuKu-PayHack2025-Champion)** — all-in-one digital growth platform for Malaysian MSMEs · *Champion @ PayHack 2025*
 - **[HedgeLP](https://github.com/Shawnchee/HedgeLP)** — delta-neutral Uniswap v4 LP with atomic GMX hedging
 - **[WInTheChat](https://github.com/Shawnchee/WInTheChat)** — institutional-grade AI trading assistant with behavioral coaching
