@@ -21,7 +21,6 @@ i write sometimes **[here](https://substack.com/@byshawnchee)** · 🌐 more at 
 - **[polynuts](https://github.com/Shawnchee/polynuts)** — non-custodial crypto prediction market on Base · pump/dump/range bets settled trustlessly on Thetanuts options vaults
 - **[Whistle](https://github.com/Shawnchee/Whistle)** — deterministic, dispute-free settlement engine for arbitrary World Cup stat props on Solana · the contract pays winners itself by CPI-verifying a signed result on-chain, no oracle or dispute window
 - **[Steam](https://github.com/Shawnchee/Stream)** — autonomous sharp-money agent that detects "steam" moves across all 104 World Cup matches, paper-trades on a disciplined rule, and commits every signal to a chained on-chain ledger for a trustless track record
-- **[CalledIt](https://github.com/Shawnchee/CalledIt)** — live play-along game where you call match events against the betting market · calls timestamped on-chain before the moment, so the group chat gets a provable scoreboard
 - **[perfpatch](https://github.com/Shawnchee/perfpatch)** — one command to diagnose Lighthouse, bundle bloat & dead code and hand ready-to-apply fixes to your IDE's AI agent · zero external API calls
 - **[bequeath](https://github.com/Shawnchee/bequeath)** — Uniswap v4 hook that makes an LP position inheritable and self-funds a monthly annuity from its own fees · *submission for the Uniswap Hook Incubator program*
 - **[claude-pomodoro](https://github.com/Shawnchee/claude-pomodoro)** — pixel-art Claude mascot pomodoro timer · native on macOS, Electron on Windows & Linux
