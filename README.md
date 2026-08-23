@@ -11,7 +11,7 @@ Currently my days are devoted to:
 * 👌🏻 contributing to open-source projects.
 * ⚽️ enjoying life.
 
-i write sometimes **[here](https://substack.com/@byshawnchee)** · 🌐 more at **[byshawnchee.vercel.app](https://byshawnchee.vercel.app)** · 💬 find me **[@NotShawnChee](https://x.com/NotShawnChee)**
+i write sometimes **[here](https://substack.com/@byshawnchee)** · 🌐 more at **[shawnchee.com](https://shawnchee.com)** · 💬 find me **[@NotShawnChee](https://x.com/NotShawnChee)**
 
 ---
 
