@@ -17,9 +17,7 @@ i write sometimes **[here](https://substack.com/@byshawnchee)** · 🌐 more at 
 
 **things i've built:**
 
-- **[Whistle](https://github.com/Shawnchee/Whistle)** — deterministic, dispute-free settlement engine for arbitrary World Cup stat props on Solana · the contract pays winners itself by CPI-verifying a signed result on-chain, no oracle or dispute window
 - **[polynuts](https://github.com/Shawnchee/polynuts)** — non-custodial crypto prediction market on Base · pump/dump/range bets settled trustlessly on Thetanuts options vaults
-- **[Steam](https://github.com/Shawnchee/Stream)** — autonomous sharp-money agent that detects "steam" moves across all 104 World Cup matches, paper-trades on a disciplined rule, and commits every signal to a chained on-chain ledger for a trustless track record
 - **[design-scan](https://github.com/Shawnchee/design-scan)** — Claude Code skill that scans any live website into a replication-grade design.md — layout, typography, colors & animations via a bundled Playwright crawler
 - **[solana-roast-skill](https://github.com/Shawnchee/solana-roast-skill)** — adversarial pre-ship interrogation skill for Solana programs · walks the design decision-tree one question at a time before an audit
 - **[content-negotiation-for-agents](https://github.com/Shawnchee/content-negotiation-for-agents-skill)** — Next.js skill that serves clean Markdown to AI agents and HTML to browsers from the same URL via HTTP content negotiation
