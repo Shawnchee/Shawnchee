@@ -1,8 +1,8 @@
-Hey there 👋🏻
+Yo 👋🏻
 
 I'm **[Shawn](https://www.linkedin.com/in/shawn-chee/)**, a software engineer who breaks and builds things onchain and off.
 
-Currently my days are devoted to:
+Breaking & building:
 
 * 🤖 building agentic AI systems and LLM-powered pipelines.
 * ⛓️ hacking on DeFi protocols and onchain infra.
