@@ -19,6 +19,8 @@ i write sometimes **[here](https://substack.com/@byshawnchee)** · 🌐 more at 
 
 *products & onchain*
 
+- **[Bide](https://github.com/Shawnchee/Bide)** — name your price, get paid until it fills · Solana limit orders run as rolling option auctions, with collateral earning Jupiter Lend yield and fills checked at expiry via Pyth
+- **Clashio** — options trading as a 1v1 duel on Base · one player signs a Thetanuts order, the other fills it, and the payout settles on-chain at expiry with no custody and no contracts of our own
 - **[polynuts](https://github.com/Shawnchee/polynuts)** — non-custodial crypto prediction market on Base · pump/dump/range bets settled trustlessly on Thetanuts options vaults
 - **[Vestra](https://github.com/Shawnchee/Vestra)** — AI research desk for pre-IPO tokens on Solana · Bull, Bear & Neutral analysts debate the same evidence, a Council checks it and writes a cited brief
 - **[ParkTheBus](https://github.com/Shawnchee/ParkTheBus)** — peer-to-peer football prediction market on Solana · post an RFQ for any event ("Ronaldo to cry"), market makers quote the odds, settled on-chain with zero house edge
